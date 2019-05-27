@@ -1,6 +1,6 @@
 # Docker version of [vcflib](https://github.com/vcflib/vcflib)
 
-Collectin of Docker files to build different vcflib versions.
+Collection of Docker files to build different vcflib versions.
 Indicative usage:
 
 ```
